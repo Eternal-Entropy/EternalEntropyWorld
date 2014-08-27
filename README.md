@@ -1,4 +1,3 @@
-EESPE
-=====
-
-Eternal-Entropy Single-Player(Earth)
+Eternal-Entropy Single-Player(Earth)  
+====================================
+A Role Playing Game in development, for linux based systems.
