@@ -1,3 +1,3 @@
-Eternal-Entropy Single-Player(Earth)  
+Eternal-Entropy World  
 ====================================
-A Role Playing Game in development, for linux based systems, and possibly coming to Adobe Flash.
+A Massively Multiplayer Onilne Role Playing Game in development, for linux based systems.
